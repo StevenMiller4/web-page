@@ -1,0 +1,98 @@
+/* Basic CSS values I want for the entire page */
+
+* {
+  box-sizing: border-box;
+  background-color: #fdfdff;
+  text-align: center;
+  color: #393D3f;
+}
+
+/* Stylized values to customize the top of the webpage for the header section */
+h1 {
+  font-family: 'Lucida Console', serif;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+header p {
+  font-family: Futura, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+/* Customization for the nav and links throughout the page */
+nav {
+  font-family: Futura, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-top: 75px;
+  margin-bottom: -40px;
+}
+
+a:link {
+  color: #393D3f;
+}
+
+a:visited {
+  color: #546a7b;
+}
+
+a:hover {
+  color: #62929e;
+}
+
+a:active {
+  color: black;
+}
+
+/* Img values to make the image a circle and create a border around it */
+img {
+  border: 5px groove #62929e;
+  border-radius: 50%;
+}
+
+/* Header 2 and 3 values to separate the headings from the main p */
+h2, h3 {
+  font-family: Futura, sans-serif;
+  font-size: 30px;
+  font-weight: 400px;
+  letter-spacing: 2px;
+}
+
+/* Getting all of the main p to have the same values */
+main p {
+  font-family: 'RocknRoll One', sans-serif;
+  font-size: 14px;
+  font-weight: 350;
+  letter-spacing: 1px;
+  padding: 1rem;
+}
+
+/* Customization for the lists, both ordered and unordered. Further customization desired here */
+ul, ol {
+  font-family: 'RocknRoll One', sans-serif;
+  font-size: 14px;
+  font-weight: 350px;
+  letter-spacing: 1px;
+}
+
+/* CSS values for the hr */
+hr {
+  height: 20px;
+  background-color: #546a7b;
+  border: 2px #62929e #393D3f;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 350px;
+  letter-spacing: 1px;
+}
