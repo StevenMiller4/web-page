@@ -8,7 +8,7 @@ Name: Steven Miller
 Age: 28
 Location: San Diego
 - [GitHub Profile](https://github.com/StevenMiller4)
-- [Repl.it Profile](https://repl.it/@StevenMiller4)
+- [LinkedIn Profile](https://www.linkedin.com/in/steven-miller-0477bb1a5/)
 
 ## Acknowledgments
 
